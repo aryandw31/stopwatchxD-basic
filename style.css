@@ -1,0 +1,23 @@
+div{
+            text-align: center;
+            font-size: 20px;
+            color: #299419
+        }
+        button{
+            width: 100px;
+            height: 30px;
+            margin: 7px;
+            border-radius: 10px;
+            font-weight: bold;
+            color: steelblue
+        }
+        #counter{
+            font-weight: bold;
+        }
+
+body{
+    background-color: #f4dbc7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
